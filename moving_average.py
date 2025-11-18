@@ -1,6 +1,6 @@
-from math import log10
+import numpy as np
 
-def is_palindrome(n):
+def moving_average(signal, window_size):
     ### Replace with your own code (begin) ###
     pass
     ### Replace with your own code (end)   ###
